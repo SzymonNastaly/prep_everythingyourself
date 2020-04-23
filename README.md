@@ -1,5 +1,8 @@
-# everythingyourself
-A open source way of doing ElfYourself 
+# prep for everythingyourself
+This is my preperation/research for the real everythingyourself repo.
+
+## What do I want to achieve?
+A open source way of doing ElfYourself©  
 
 I basically try to have a library where one can input a video, coordinates and a image of a face.  
 The output should then be a video with the face moving/disappearing properly.
